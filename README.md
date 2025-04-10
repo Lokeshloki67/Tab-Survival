@@ -8,10 +8,11 @@ A simple and addictive tap-to-survive game built using **React Native** and **Ex
 ## 📸 Screenshots
 
 ### 🎮 Gameplay
-![Gameplay](https://github.com/Lokeshloki67/Tab-Survival/raw/main/Screenshot%202025-04-10%20135652.png)
+![Game Over](https://github.com/Lokeshloki67/Tab-Survival/raw/main/Screenshot%202025-04-10%20135825.png)
+
 
 ### ☠️ Game Over
-![Game Over](https://github.com/Lokeshloki67/Tab-Survival/raw/main/Screenshot%202025-04-10%20135825.png)
+![Gameplay](https://github.com/Lokeshloki67/Tab-Survival/raw/main/Screenshot%202025-04-10%20135652.png)
 
 ---
 
