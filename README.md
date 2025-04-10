@@ -65,17 +65,7 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 ## 📬 Contact
 
-Developed by [Lokesh](https://github.com/Lokeshloki67) with ❤️ using React Native.
+Developed by [Lokesh](https://www.linkedin.com/in/lokesh-waran-y) with ❤️ using React Native.
 
 ---
 
-## 🧠 Inspiration
-
-This project was built for learning game mechanics in React Native using simple physics and animation.
-
----
-
-## 🧩 License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-```
