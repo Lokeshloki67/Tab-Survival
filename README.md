@@ -1,11 +1,80 @@
-# Sample Snack app
 
-Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
+# 🕹️ Tab Survival - A Simple React Native Game
 
-When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Download** your project and use it with [expo cli](https://docs.expo.dev/get-started/installation/#expo-cli)).
+A simple and addictive tap-to-survive game built using **React Native** and **Expo**. Control the cyan box, jump to avoid red obstacles, and see how long you can survive!
 
-All projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the `<>` button.
+---
 
-If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.dev/c/expo-dev-tools/61) or [Discord](https://chat.expo.dev/).
+## 📸 Screenshots
 
-Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack).
+### 🎮 Gameplay
+![Gameplay](https://github.com/Lokeshloki67/Tab-Survival/raw/main/Screenshot%202025-04-10%20135652.png)
+
+### ☠️ Game Over
+![Game Over](https://github.com/Lokeshloki67/Tab-Survival/raw/main/Screenshot%202025-04-10%20135825.png)
+
+---
+
+## 🚀 Getting Started
+
+### 🛠 Requirements
+
+- Node.js
+- Expo CLI: `npm install -g expo-cli`
+- Android/iOS Emulator OR Expo Go on your device
+
+### 📦 Installation
+
+```bash
+git clone https://github.com/Lokeshloki67/Tab-Survival.git
+cd Tab-Survival
+npm install
+npx expo start
+```
+
+Scan the QR code from your terminal using **Expo Go** app or run on an emulator.
+
+---
+
+## 🎮 How to Play
+
+- Tap anywhere on the screen to jump.
+- Avoid red obstacles flying across the screen.
+- Touching the top, bottom, or an obstacle ends the game.
+- Your score increases for every obstacle dodged.
+- Restart and beat your high score!
+
+---
+
+## 📌 Features
+
+- Tap to Jump Mechanics
+- Animated Obstacles
+- Real-time Collision Detection
+- Game Over with Score Display
+- Simple UI and Fast Gameplay Loop
+
+---
+
+## 🤝 Contributing
+
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change or improve.
+
+---
+
+## 📬 Contact
+
+Developed by [Lokesh](https://github.com/Lokeshloki67) with ❤️ using React Native.
+
+---
+
+## 🧠 Inspiration
+
+This project was built for learning game mechanics in React Native using simple physics and animation.
+
+---
+
+## 🧩 License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+```
